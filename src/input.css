@@ -1,0 +1,36 @@
+/* D:/ITS/TUGAS/Pweb/Vidatra/src/font/SF PRO DISPLAY */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "CustomFontRegular";
+    src: url("/src/font/SF PRO DISPLAY/SF-Pro-Display-Regular.ttf");
+}
+
+@font-face {
+    font-family: "CustomFontSemiBold";
+    src: url("/src/font/SF PRO DISPLAY/SF-Pro-Display-Semibold.ttf");
+}
+
+@font-face {
+    font-family: "CustomFontMedium";
+    src: url("/src/font/SF PRO DISPLAY/SF-Pro-Display-Medium.ttf");
+}
+
+div{
+    font-family: "CustomFontRegular";
+}
+
+.title-card{
+    font-family: "CustomFontSemiBold";
+}
+
+.detail{
+    font-family: "CustomFontMedium";
+}
+
+td, th{
+    font-family: "CustomFontRegular";
+}

@@ -1,0 +1,13 @@
+{
+    "name": "ezhie/vidatra",
+    "authors": [
+        {
+            "name": "Crazy-Newbie",
+            "email": "ezie2001@gmail.com"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "server": "php -S localhost:8000 -t D:/ITS/TUGAS/Pweb/Vidatra/src"
+    }
+}
